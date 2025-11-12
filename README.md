@@ -1,4 +1,4 @@
-# Clean-Folders.ps1
+# CSS.ps1
 
 A safe, interactive PowerShell script for recursively deleting specified folders from a directory tree.
 
